@@ -1,0 +1,9 @@
+G:\Загрузки\Approximation-master\Апроксимация\Апроксимация\bin\Debug\Approximation.exe
+G:\Загрузки\Approximation-master\Апроксимация\Апроксимация\bin\Debug\Approximation.pdb
+G:\Загрузки\Approximation-master\Апроксимация\Апроксимация\obj\x86\Debug\Апроксимация.Form1.resources
+G:\Загрузки\Approximation-master\Апроксимация\Апроксимация\obj\x86\Debug\Approximation.Properties.Resources.resources
+G:\Загрузки\Approximation-master\Апроксимация\Апроксимация\obj\x86\Debug\Approximation.csproj.GenerateResource.Cache
+G:\Загрузки\Approximation-master\Апроксимация\Апроксимация\obj\x86\Debug\Approximation.exe
+G:\Загрузки\Approximation-master\Апроксимация\Апроксимация\obj\x86\Debug\Approximation.pdb
+G:\Загрузки\Approximation-master\Approximation\Approximation\obj\x86\Debug\Approximation.exe
+G:\Загрузки\Approximation-master\Approximation\Approximation\obj\x86\Debug\Approximation.pdb
